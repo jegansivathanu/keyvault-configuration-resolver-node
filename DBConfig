@@ -1,0 +1,1 @@
+"Data Source=(DESCRIPTION =" + "(ADDRESS = (PROTOCOL = TCP)(HOST = tqa1.octanner.com)(PORT = 1521))" + "(CONNECT_DATA =" + "(SERVER = DEDICATED)" + "(SERVICE_NAME = tqa1)));" + "User Id= sc_contractor;Password=<strong>TAnnER_REp0rtS</strong>
